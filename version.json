@@ -1,10 +1,11 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1",
-  "downloadUrl": "https://github.com/JohnReyGulapa/signlanguage-app-releases/releases/download/v0.1/app-debug.apk",
-  "releaseNotes": "Red Check Updates"
+  "versionCode": 2,
+  "versionName": "0.2",
+  "downloadUrl": "https://github.com/JohnReyGulapa/signlanguage-app-releases/releases/download/v0.2/app-debug.apk",
+  "releaseNotes": "Added Clear All Functionality"
 
 }
+
 
 
 
